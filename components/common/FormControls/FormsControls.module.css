@@ -1,0 +1,43 @@
+.form-control{
+
+}
+
+.formControl.error input,
+.formControl.error textarea{
+    border: 2px solid firebrick;
+}
+.formControl.error span{
+    color: firebrick;
+}
+
+.formSumaryError {
+    border: 1px solid firebrick;
+    padding: 2px;
+    color:firebrick;
+}
+
+.loginButton{
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.loginFormBody{
+    padding: 20px;
+}
+
+.loginBody{
+    margin: 20px;
+}
+
+.loginInput{
+    padding: 5px;
+    margin: 5px;
+    max-width: 100%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
